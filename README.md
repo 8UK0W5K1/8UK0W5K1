@@ -50,11 +50,11 @@ I'm Jérémie, a French aspiring web developer.
   <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=8UK0W5K1'/>
 </a>
 
-<a href='https://github.com/Beygs/Beygs'>
+<a href='https://github.com/8UK0W5K1/8UK0W5K1'>
   <img align='center' src='https://github-readme-stats.vercel.app/api?username=8UK0W5K1'/>
 </a>
 
-<a href='https://github.com/Beygs/Beygs'>
+<a href='https://github.com/8UK0W5K1/8UK0W5K1'>
   <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=8UK0W5K1'/>
 </a>
  
