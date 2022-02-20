@@ -6,7 +6,7 @@ I'm Jérémie, a French aspiring web developer.
 
 ### 💻 Tools (Harware, OS, IDE,...)
 
-![Acer Laptop](https://img.shields.io/badge/acer%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white)![AMD RYZEN 7 5800H](https://img.shields.io/badge/AMD%20Ryzen_7_5800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![NVIDIA RTX3050](https://img.shields.io/badge/NVIDIA-3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Acer Laptop](https://img.shields.io/badge/acer%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white)![AMD RYZEN 7 5800H](https://img.shields.io/badge/AMD%20Ryzen_7_5800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![NVIDIA RTX3050](https://img.shields.io/badge/NVIDIA-3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white) <br/>
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
