@@ -59,7 +59,7 @@ I'm Jérémie, a French aspiring web developer.
 </a>
  
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=8uk0w5k1&label=Profile%20views&color=0e75b6&style=flat" alt="8uk0w5k1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8uk0w5k1&label=Profile%20views&color=0e75b6&style=flat" alt="8uk0w5k1" /> </p>
 
 <!--
 **8UK0W5K1/8UK0W5K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
