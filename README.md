@@ -6,9 +6,9 @@ I'm Jérémie, a French aspiring web developer.
 
 ### 💻 Tools (Harware, OS, IDE,...)
 
-![Acer Laptop]https://img.shields.io/badge/acer%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white
+![Acer Laptop](https://img.shields.io/badge/acer%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white)
 
-![AMD RYZEN 7 5800H]https://img.shields.io/badge/AMD%20Ryzen_7_5800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+![AMD RYZEN 7 5800H](https://img.shields.io/badge/AMD%20Ryzen_7_5800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 
 ## 📈 GitHub Stats
