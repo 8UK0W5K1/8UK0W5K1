@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Jérémie, a French aspiring web developer.
+I'm Jérémie, a passionate aspiring web developer from France.
 
 ## 🔧 Technologies & Tools
 
