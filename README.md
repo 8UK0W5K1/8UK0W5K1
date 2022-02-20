@@ -8,7 +8,7 @@ I'm Jérémie, a French aspiring web developer.
 
 ![Acer Laptop](https://img.shields.io/badge/acer%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white)![AMD RYZEN 7 5800H](https://img.shields.io/badge/AMD%20Ryzen_7_5800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![NVIDIA RTX3050](https://img.shields.io/badge/NVIDIA-3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white) <br/>
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![FIREFOX BROWSER](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)![CHROME](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 ## 📈 GitHub Stats
 
