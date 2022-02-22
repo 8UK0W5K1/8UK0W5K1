@@ -56,9 +56,6 @@ I'm Jérémie, a passionate aspiring web developer from France.
   <img align='left' src='https://github-readme-stats.vercel.app/api?username=8UK0W5K1'/>
 </a>
 
-<a href='https://github.com/8UK0W5K1/8UK0W5K1'>
-  <img align='left' src='https://github-readme-streak-stats.herokuapp.com/?user=8UK0W5K1'/>
-</a>
  
  <a href="https://app.daily.dev/8UK0W5K1"><img align="right" src="https://api.daily.dev/devcards/60f74c0becc242b4b01af83ba1558621.png?r=3o3" width="400" alt="Jérémie DELDEM's Dev Card"/></a>
 
