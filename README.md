@@ -55,8 +55,8 @@ I'm Jérémie, a passionate aspiring web developer from France.
  
 <span align="right"> <img src="https://komarev.com/ghpvc/?username=8uk0w5k1&label=Profile%20views&color=0e75b6&style=flat" alt="8uk0w5k1" /> </span>
 
- ### ____
- <a href="https://app.daily.dev/8UK0W5K1"><img align="center" src="https://api.daily.dev/devcards/60f74c0becc242b4b01af83ba1558621.png?r=3o3" width="400" alt="Jérémie DELDEM's Dev Card"/></a>
+ 
+ <div><a href="https://app.daily.dev/8UK0W5K1"><img align="center" src="https://api.daily.dev/devcards/60f74c0becc242b4b01af83ba1558621.png?r=3o3" width="400" alt="Jérémie DELDEM's Dev Card"/></a></div>
 
 
 <!--
